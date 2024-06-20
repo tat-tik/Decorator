@@ -1,0 +1,6 @@
+Время вызова: 2024-06-20 20:36:57.Функция "flat_generator" с аргументами ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],), {} вернула <generator object flat_generator at 0x00000128427A3030>
+Время вызова: 2024-06-20 20:36:57.Функция "flat_generator" с аргументами ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],), {} вернула <generator object flat_generator at 0x00000128427A3030>
+Время вызова: 2024-06-20 20:36:57.Функция "flat_generator" с аргументами ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],), {} вернула <generator object flat_generator at 0x00000128427A3030>
+Время вызова: 2024-06-20 20:56:18.Функция "flat_generator" с аргументами ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],), {} вернула <generator object flat_generator at 0x00000199C1793030>
+Время вызова: 2024-06-20 20:56:18.Функция "flat_generator" с аргументами ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],), {} вернула <generator object flat_generator at 0x00000199C1793030>
+Время вызова: 2024-06-20 20:56:18.Функция "flat_generator" с аргументами ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],), {} вернула <generator object flat_generator at 0x00000199C1793030>
